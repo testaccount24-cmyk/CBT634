@@ -1,0 +1,11 @@
+2025-04-04 13:03:29.169054 - Received CBT.V508.FILE634.PDS from FILE634.XMI 
+2025-04-04 13:03:29.169841 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$$$#DATE
+2025-04-04 13:03:29.169993 - Found $ASSEMBL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$ASSEMBL
+2025-04-04 13:03:29.170140 - Found $BATJCL.jcl (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$BATJCL
+2025-04-04 13:03:29.170271 - Found $INSTALL.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/$INSTALL
+2025-04-04 13:03:29.170396 - Found $LOADLIB.xmi (application/xmit) in CBT.V508.FILE634.PDS, moved to PDS/$LOADLIB.xmi
+2025-04-04 13:03:29.176641 - Received SBGOLOB.UCBSUBR.LOAD from $LOADLIB.xmi 
+2025-04-04 13:03:29.177025 - Found UCBSUBR.bin (application/octet-stream) in SBGOLOB.UCBSUBR.LOAD, moved to $LOADLIB/UCBSUBR
+2025-04-04 13:03:29.177375 - Found @FILE634.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/@FILE634
+2025-04-04 13:03:29.177502 - Found LISTUCB.bin (application/octet-stream) in CBT.V508.FILE634.PDS, moved to PDS/LISTUCB
+2025-04-04 13:03:29.177624 - Found UCBSUBR.txt (text/plain) in CBT.V508.FILE634.PDS, moved to PDS/UCBSUBR
